@@ -1,0 +1,5 @@
+[${project.name}][${env:SERVER_PORT}] 2020-11-25 00:00:20,155 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:241] - List of Servers for transaction-service obtained from Discovery client: []
+[${project.name}][${env:SERVER_PORT}] 2020-11-25 00:00:20,155 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:246] - Filtered List of Servers for transaction-service obtained from Discovery client: []
+[${project.name}][${env:SERVER_PORT}] 2020-11-25 00:00:20,155 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [transaction-service]: clearing server list (SET op)
+[${project.name}][${env:SERVER_PORT}] 2020-11-25 00:00:20,155 DEBUG [PollingServerListUpdater-1][DynamicServerListLoadBalancer.java:179] - Setting server list for zones: {}
+[${project.name}][${env:SERVER_PORT}] 2020-11-25 00:00:20,155 DEBUG [PollingServerListUpdater-1][BaseLoadBalancer.java:491] - LoadBalancer [transaction-service_unknown]: clearing server list (SET op)
